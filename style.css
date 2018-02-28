@@ -1,0 +1,203 @@
+html{
+	font-size: 16px;
+}
+
+body{
+	background-color: rgba(20,55,45,0.1);
+	background-size: cover;
+	background-attachment: fixed;
+    scroll-behavior: smooth;
+    
+  
+
+
+}
+
+
+
+.me{
+	margin-top: 100px; 
+	margin-left: 50px;
+}
+
+.me a{
+
+	font-family: Showcard Gothic;
+	font-size: 3.5rem;
+	color: white;
+	border: 2px solid red ;
+	border-radius: 15px;
+    min-width:600px;
+    align-content: center;
+    padding: 3px 3px;
+    text-align: center;
+	background:red;
+	display: block;
+}
+
+.me a:hover{
+	background: white;
+	color: red;
+	transition:0.5s ease-in;
+
+}
+
+
+
+.yes{
+	font-family: Showcard Gothic;
+	color: blue;
+	font-size: 60px;
+	margin-left: 400px;
+	margin-bottom: 50px;
+	width: 600px;
+	text-align: center;
+	display: block;
+}
+
+
+
+a{
+	text-decoration: none;
+}
+
+
+
+h3{
+	font-family: Showcard Gothic;
+	font-size: 30px;
+	color: black;
+	margin-left: 10px;
+	letter-spacing: 1px;
+ }
+ 
+
+
+
+ p{
+ 	margin-right: 450px;
+ 	font-size: 22px;
+ 	margin-left: 10px;
+ 
+
+ }
+ 
+
+
+ .intro{
+
+ 	font-size: 22px;
+ 	margin-top: 10px;
+ 	font-style: italic;
+ 	margin-left: 10px;
+
+ }
+
+ .conclude{
+
+ 	font-style: italic;
+ 	margin-left: 10px;
+ }
+
+ .cho a{
+ 	font-family: Showcard Gothic;
+	font-size: 25px;
+	color: white;
+	border: 2px solid red ;
+	border-radius: 15px;
+    width: 300px;
+    align-content: center;
+    text-align: center;
+	background:red;
+	margin-left: 50px;
+	padding: 4px 4px;
+	display: block;
+
+
+ }
+.mo a{
+
+	font-family: Showcard Gothic;
+	font-size: 25px;
+	color: white;
+	border: 2px solid red ;
+	border-radius: 15px;
+    width: 300px;
+    align-content: center;
+    text-align: center;
+	background:red;
+	margin-left: 50px;
+	page-break-inside: auto;
+	padding: 4px 4px;
+	display: block;
+}
+
+.mo a:hover{
+	color: red;
+	background: white;
+}
+
+.cho a:hover{
+	color: red;
+	background: white;
+}
+
+
+
+.ho a{
+ 	font-family: Showcard Gothic;
+	font-size: 25px;
+	color: white;
+	border: 2px solid red ;
+	border-radius: 15px;
+    width: 300px;
+    align-content: center;
+    text-align: center;
+	background:red;
+	margin-left: 50px;
+	padding: 4px 4px;
+	display: block;
+
+}
+
+
+	.co a{
+ 	font-family: Showcard Gothic;
+	font-size: 25px;
+	color: white;
+	border: 2px solid red ;
+	border-radius: 15px;
+    width: 300px;
+    align-content: center;
+    text-align: center;
+	background:red;
+	margin-left: 50px;
+	padding: 4px 4px;
+	display: block;
+
+}
+
+.co{
+	margin-bottom: 200px;
+}
+.ho a:hover{
+	color: red;
+	background: white;
+}
+
+.co a:hover{
+	color: red;
+	background: white;
+}
+.vid { 
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translate(-50%, -50%);
+  opacity: 0.4;
+}
